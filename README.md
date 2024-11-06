@@ -1,5 +1,8 @@
 # ink! ERC-721 Implementation
 
+> [!NOTE]
+> It is based on [use-ink/ink-examples](https://github.com/use-ink/ink-examples/tree/main/erc721)
+
 ## Overview
 
 This is an implementation of the ERC-721 Non-Fungible Token (NFT) standard using ink! smart contract language for the Polkadot/Substrate ecosystem. The contract provides functionality for creating, managing, and transferring unique tokens on the blockchain.
